@@ -11,6 +11,7 @@ Arquivos necessarios para servir de entrada:
 Tendo todos os arquivos acima no mesmo diretório
 no qual se localiza o arquivo *experimentos.cpp*, 
 rode, no diretório vigente, os comandos abaixo:
+
     ```
     g++ -std=c++14 experimentos.cpp -o experimentos
     ./experimentos < input_adjusted
