@@ -1,0 +1,72 @@
+AS_t_UCS_t0_zezao == 16.518820
+porcentagem = 99.900000%
+
+AS_t_UCS_t1_zezao == 0.927746
+porcentagem = 82.120000%
+
+AS_t_UCS_t2_zezao == 2.339767
+porcentagem = 99.010000%
+
+AS_t_UCS_t3_zezao == 1.707979
+porcentagem = 95.540000%
+
+BFS_t_AS_t0_zezao == 3.165111
+porcentagem = 99.900000%
+
+BFS_t_AS_t1_zezao == 1.813032
+porcentagem = 96.490000%
+
+BFS_t_AS_t2_zezao == 1.510967
+porcentagem = 93.450000%
+
+BFS_t_AS_t3_zezao == 0.453118
+porcentagem = 67.360000%
+
+BFS_t_GS_t0_zezao == -14.790900
+porcentagem = 0.000000%
+
+BFS_t_GS_t1_zezao == -3.700802
+porcentagem = 0.000000%
+
+BFS_t_GS_t2_zezao == -2.887944
+porcentagem = 0.000000%
+
+BFS_t_GS_t3_zezao == -1.468289
+porcentagem = 0.000000%
+
+BFS_t_UCS_t0_zezao == 14.964690
+porcentagem = 99.900000%
+
+BFS_t_UCS_t1_zezao == 4.464798
+porcentagem = 99.900000%
+
+BFS_t_UCS_t2_zezao == 3.179848
+porcentagem = 99.900000%
+
+BFS_t_UCS_t3_zezao == 1.536228
+porcentagem = 93.700000%
+
+GS_t_AS_t0_zezao == 7.034371
+porcentagem = 99.900000%
+
+GS_t_AS_t1_zezao == 2.103263
+porcentagem = 98.210000%
+
+GS_t_AS_t2_zezao == 2.559017
+porcentagem = 99.460000%
+
+GS_t_AS_t3_zezao == 0.893115
+porcentagem = 81.330000%
+
+GS_t_UCS_t0_zezao == 17.081670
+porcentagem = 99.900000%
+
+GS_t_UCS_t1_zezao == 4.304560
+porcentagem = 99.900000%
+
+GS_t_UCS_t2_zezao == 3.484025
+porcentagem = 99.900000%
+
+GS_t_UCS_t3_zezao == 1.553472
+porcentagem = 93.940000%
+
