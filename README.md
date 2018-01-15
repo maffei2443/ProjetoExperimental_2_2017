@@ -23,4 +23,4 @@ arquivos, quais sejam:
 + algo_q
 + algo_pushed
 + algo_heuristicas
-<E é assim que se escreve comentário em MarkDown!!!>
+<?E é assim que se escreve comentário em MarkDown!!!>
