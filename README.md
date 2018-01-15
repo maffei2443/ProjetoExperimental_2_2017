@@ -16,7 +16,7 @@ rode, no diretório vigente, os comandos abaixo:
     ./experimentos < input_adjusted
     ```
 
-Após a execução do programa, tem-se diversos novos
++ Após a execução do programa, tem-se diversos novos
 arquivos, quais sejam:
     + <?>_t
     + <?>_q
