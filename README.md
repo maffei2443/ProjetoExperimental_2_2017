@@ -17,10 +17,10 @@ g++ -std=c++14 experimentos.cpp -o experimentos
 ./experimentos < input_adjusted
 ```
 
-+ Após a execução do programa, tem-se diversos novos
+Após a execução do programa, tem-se diversos novos
 arquivos, quais sejam:
-    + <?>_t
-    + <?>_q
-    + <?>_pushed
-    + <?>_heuristicas
++ <?>_t
++ <?>_q
++ <?>_pushed
++ <?>_heuristicas
     
