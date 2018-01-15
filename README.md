@@ -8,7 +8,7 @@
     + input
 
 ### Como rodar os experimentos?
-+ Tendo todos os arquivos acima no mesmo diretório
+Tendo todos os arquivos acima no mesmo diretório
 no qual se localiza o arquivo *experimentos.cpp*, 
 rode, no diretório vigente, os comandos abaixo:
     ```
