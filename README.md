@@ -1,6 +1,6 @@
 ### ProjetoExperimental_2_2017
-    Repositório criado após a conclusão do projeto,  apenas para expor os códigos utilizados para
-    os cálculos das estatísticas.
+Repositório criado após a conclusão do projeto,  apenas para expor os códigos utilizados para
+os cálculos das estatísticas.
 
 Arquivos necessarios para servir de entrada:
 + USA-roda-d.NY.co
