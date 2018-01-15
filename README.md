@@ -1,11 +1,11 @@
-# ProjetoExperimental_2_2017
+ProjetoExperimental_2_2017
     Repositório criado após a conclusão do projeto,  apenas para expor os códigos utilizados para
     os cálculos das estatísticas.
 
-Arquivos necessarios para servir de entrada:
-    - USA-roda-d.NY.co
-    - USA-road-d.NY.gr
-    - input
++ Arquivos necessarios para servir de entrada:
+    + USA-roda-d.NY.co
+    + USA-road-d.NY.gr
+    + input
 
 ### Como rodar os experimentos?
 Tendo todos os arquivos acima no mesmo diretório
