@@ -19,8 +19,8 @@ g++ -std=c++14 experimentos.cpp -o experimentos
 
 Após a execução do programa, tem-se diversos novos
 arquivos, quais sejam:
-+ <?>_t
-+ <?>_q
-+ <?>_pushed
-+ <?>_heuristicas
-    
++ algo_t
++ algo_q
++ algo_pushed
++ algo_heuristicas
+<E é assim que se escreve comentário em MarkDown!!!>
