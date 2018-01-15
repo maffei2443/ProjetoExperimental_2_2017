@@ -1,3 +1,24 @@
+/*
+  Arquivos necessarios para servir de entrada:
+    USA-roda-d.NY.co
+    USA-road-d.NY.gr
+    input
+
+  Como rodar os experimentos?
+  Tendo todos os arquivos acima no mesmo diretório
+  no qual se localiza esse código rode, no dire-
+  tório vigente, os comandos abaixo:
+
+    g++ -std=c++14 experimentos.cpp -o experimentos
+    ./experimentos < input_adjusted
+  Após a execução do programa, tem-se diversos novos
+  arquivos, quais sejam:
+    <?>_t
+    <?>_q
+    <?>_pushed
+    <?>_heuristicas
+*/
+
 #include <bits/stdc++.h>
 // Obs : rodar com -o1000000000000000000 :)
 using namespace std;
@@ -419,7 +440,7 @@ int main(){
     }
  cout << "Carregou tabela\n"   ;
  cout << "Carregou tabela\n"   ;
- fplog = fopen("logzao", "w+");
+ fplog = fopen("log_calculos", "w+");
  
  computeAS(UCS);
  cout << "\nRodou UCS 1\n";
