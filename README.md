@@ -9,8 +9,8 @@
 
 ### Como rodar os experimentos?
 + Tendo todos os arquivos acima no mesmo diretório
-no qual se localiza esse código rode, no dire-
-tório vigente, os comandos abaixo:
+no qual se localiza o arquivo *experimentos.cpp*, 
+rode, no diretório vigente, os comandos abaixo:
     ```
     g++ -std=c++14 experimentos.cpp -o experimentos
     ./experimentos < input_adjusted
